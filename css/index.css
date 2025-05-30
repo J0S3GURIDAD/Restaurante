@@ -7,6 +7,12 @@ body {
     justify-content: space-between;
 }
 
+h1
+{
+    text-align: center;
+    color: #f5f5f5 !important;
+}
+
 .fondo
 {
     background: url("../img/F3.jpg") no-repeat center center/cover;
